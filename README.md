@@ -16,4 +16,6 @@ pythonのtimeモジュールを利用しLEDの光でモールス信号の実装�
 ん : ・ー・ー・  
 こ : ーーーー  
   
-以下のURLの動画では"うんこ"を二回繰り返しています。
+以下のURLの動画では"うんこ"を二回繰り返しています。  
+  
+https://www.youtube.com/watch?v=TB4zQCOrH6s&feature=youtu.be
